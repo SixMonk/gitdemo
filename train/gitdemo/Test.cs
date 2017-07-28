@@ -17,5 +17,14 @@ namespace gitdemo
             string ss5 = "hello";
             string ss6 = "hello";
         }
+		public void Test3()
+        {
+            string ss = "hello";
+            string ss2 = "hello";
+            string ss3 = "hello";
+            string ss4 = "hello";
+            string ss5 = "hello";
+            string ss6 = "hello";
+        }
     }
 }

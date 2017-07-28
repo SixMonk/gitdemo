@@ -13,5 +13,9 @@ namespace gitdemo
 
             
         }
+		public static void Test3()
+        {
+            new Test().Test3();
+        }
     }
 }
