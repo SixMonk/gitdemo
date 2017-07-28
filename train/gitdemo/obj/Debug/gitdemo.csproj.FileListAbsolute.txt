@@ -1,0 +1,6 @@
+F:\Code_World\git_project\gitdemo\gitdemo\bin\Debug\gitdemo.exe.config
+F:\Code_World\git_project\gitdemo\gitdemo\bin\Debug\gitdemo.exe
+F:\Code_World\git_project\gitdemo\gitdemo\bin\Debug\gitdemo.pdb
+F:\Code_World\git_project\gitdemo\gitdemo\obj\Debug\gitdemo.csprojResolveAssemblyReference.cache
+F:\Code_World\git_project\gitdemo\gitdemo\obj\Debug\gitdemo.exe
+F:\Code_World\git_project\gitdemo\gitdemo\obj\Debug\gitdemo.pdb
